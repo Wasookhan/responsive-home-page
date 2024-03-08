@@ -184,4 +184,7 @@ button:nth-child(2){
    .right-container{
     width: 100%;
    }
+   .hero-title{
+    font-size: 30px;
+   }
 }
